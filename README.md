@@ -1,0 +1,1 @@
+This simple python script auto mutes the Valorant game whenever you alt-tab and bring the game out of focus. The script is only interacting with windows API and libraries and doesn't actually modify or read any Valorant data making it perfectly safe. 
